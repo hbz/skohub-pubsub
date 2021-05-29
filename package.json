@@ -52,6 +52,6 @@
     "morgan": "^1.9.1",
     "parse-link-header": "^1.0.1",
     "superagent": "^4.1.0",
-    "ws": "^6.2.0"
+    "ws": "^7.4.6"
   }
 }
